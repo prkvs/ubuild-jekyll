@@ -15,6 +15,8 @@ page_sections:
     link_text: Pricing
   - link: "#"
     link_text: Team
+  - link: "/posts"
+    link_text: Posts
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
@@ -75,6 +77,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
