@@ -10,6 +10,5 @@ fields:
 - type: textarea
   name: post
   label: post
-- type: blocks
 pages:
 - _posts/2019-01-07-demo-post.md
